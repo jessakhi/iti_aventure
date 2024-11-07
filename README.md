@@ -19,7 +19,7 @@ To run this project, you need to have Java Development Kit (JDK) installed on yo
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/java-adventure-game.git
+    git clone https://github.com/jessakhi/java-adventure-game.git
     cd java-adventure-game
     ```
 
