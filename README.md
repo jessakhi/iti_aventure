@@ -1,6 +1,6 @@
 # Java Adventure Game Base
 
-Welcome to the repository for the Java Adventure Game Base project! This is a simple text-based adventure game created as a training exercise during my ITI3 course. The game allows players to explore different locations, interact with objects, and experience a basic adventure storyline.
+ Java Adventure Game Base project. This is a simple text-based adventure game created as a training exercise during my ITI3 course. The game allows players to explore different locations, interact with objects, and experience a basic adventure storyline. ITI3 Programing course.
 
 ## Features
 
